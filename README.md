@@ -10,4 +10,4 @@ Paso 3: En el programa tendras 6 opciones [1] Alta de Administrador [2] Alta de 
 
 Una vez seleccionada cualquier opción pediran capturar los datos para poder crear un registro dependiendo la opción seleccionada. Quedando guardados en un repositorio local.
 
-Natalie Montes
+#Natalie Montes
